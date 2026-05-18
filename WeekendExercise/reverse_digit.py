@@ -7,3 +7,6 @@ for number in str(digit):
     reverse_digit = number + reverse_digit
     
 print(reverse_digit, end="")
+
+
+
